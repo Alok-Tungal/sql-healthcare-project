@@ -3,7 +3,7 @@
 This project simulates real-world healthcare analytics using SQL, similar to how Cotiviti handles claims and patient risk scoring.
 
 ## 📊 Dataset:
-- Source: [Kaggle]([https://www.kaggle.com/datasets/muhammadehsan02/diabetes-patient-health-data])
+- Source: [Kaggle](https://www.kaggle.com/datasets/muhammadehsan02/diabetes-patient-health-data)
 - Patients: 768
 - Columns: Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age, Diabetes
 

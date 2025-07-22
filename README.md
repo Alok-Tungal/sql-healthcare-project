@@ -1,4 +1,4 @@
-# 🩺 Cotiviti-Style Diabetes Risk Analysis (SQL Project)
+# 🩺 Diabetes Risk Analysis (SQL Project)
 
 This project simulates real-world healthcare analytics using SQL, similar to how Cotiviti handles claims and patient risk scoring.
 

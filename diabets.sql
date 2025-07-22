@@ -8,7 +8,7 @@ SHOW TABLES;
 
 RENAME TABLE diabetes_patient_health_data TO diabetes_data;
 
--- otal Diabetic vs Non-Diabetic Patients?
+-- Total Diabetic vs Non-Diabetic Patients?
 SELECT 
   Diabetes,
   COUNT(*) AS patient_count

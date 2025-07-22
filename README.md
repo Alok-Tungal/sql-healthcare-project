@@ -24,4 +24,4 @@ This project simulates real-world healthcare analytics using SQL, similar to how
 - Zero insulin with high glucose = potential anomaly
 
 ## 📄 Report Included:
-- Cotiviti_SQL_Report.md
+- SQL_Report.md

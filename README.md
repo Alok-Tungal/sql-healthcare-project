@@ -25,3 +25,7 @@ This project simulates real-world healthcare analytics using SQL, similar to how
 
 ## 📄 Report Included:
 - SQL_Report.md
+
+**Author:** Alok Mahadev Tungal
+**LinkedIn:** [linkedin.com/in/your-profile](#)
+**GitHub:** [github.com/yourusername](#)
